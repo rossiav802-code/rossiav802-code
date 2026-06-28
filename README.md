@@ -24,8 +24,8 @@
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
 | [TaskFlow — Todo App](https://github.com/rossiav802-code/todo-app) | Task manager with priorities, deadlines, drag & drop | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/todo-app) |
-| [Textile Factory Website](https://github.com/rossiav802-code/textile-factory-website) | Adaptive website with product catalog, feedback form & admin panel | HTML · CSS · JS | — |
-| [Landing Page](https://github.com/rossiav802-code/landing-page) | Responsive landing with feedback form & validation | HTML · CSS · JS | — |
+| [Textile Factory Website](https://github.com/rossiav802-code/textile-factory-website) | Adaptive website with product catalog, feedback form & admin panel | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/textile-factory-website) |
+| [Landing Page](https://github.com/rossiav802-code/landing-page) | Responsive landing with feedback form & validation | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/landing-page) |
 
 ---
 
