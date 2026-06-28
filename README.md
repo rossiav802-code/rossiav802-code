@@ -1,4 +1,4 @@
-# Hi, I'm Aslan Oymahmadov 👋
+# Hi, I'm Aslan Oimahmadov 👋
 
 > Junior Frontend Developer & IT Support Specialist — building clean, functional web apps from scratch.
 
