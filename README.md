@@ -31,7 +31,7 @@
 
 ## 🎓 Education
 
-- 🏛 **MDIS / Cyber Security Institute of Singapore** — currently studying (2025 – present)
+- 🏛 **MDIS / Cyber Security ** — currently studying (2025 – present)
 - 🏫 Gymnasium «Donishvar-1», Dushanbe — graduated June 2025
 
 ---
