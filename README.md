@@ -27,7 +27,7 @@
 | [Textile Factory Website](https://github.com/rossiav802-code/textile-factory-website) | Adaptive website with product catalog, feedback form & admin panel | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/textile-factory-website) |
 | [Landing Page](https://github.com/rossiav802-code/landing-page) | Responsive landing with feedback form & validation | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/landing-page) |
 | [Weather App](https://github.com/rossiav802-code/Weather-app) | Responsive weather application with real-time weather data, city search, and Weather API integration. | HTML · CSS · JS Weather API | [Live →](https://rossiav802-code.github.io/Weather-app/) |
-
+| [Prichal](https://github.com/rossiav802-code/prichal) | Social feed app with posts, likes & comments, Supabase auth | HTML · CSS · JS · React · Supabase | [Live →](https://rossiav802-code.github.io/prichal/) |
 
 ---
 
