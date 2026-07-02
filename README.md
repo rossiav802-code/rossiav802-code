@@ -26,7 +26,7 @@
 | [TaskFlow — Todo App](https://github.com/rossiav802-code/todo-app) | Task manager with priorities, deadlines, drag & drop | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/todo-app) |
 | [Textile Factory Website](https://github.com/rossiav802-code/textile-factory-website) | Adaptive website with product catalog, feedback form & admin panel | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/textile-factory-website) |
 | [Landing Page](https://github.com/rossiav802-code/landing-page) | Responsive landing with feedback form & validation | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/landing-page) |
-| [Weather-App](https://github.com/rossiav802-code/landing-page) | React weather application with real-time weather data using Weather API | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/Weather-app/) |
+| [Weather App](https://github.com/rossiav802-code/landing-page) | Responsive weather application with real-time weather data, city search, and Weather API integration. | HTML · CSS · JS Weather API | [Live →](https://rossiav802-code.github.io/Weather-app/) |
 
 
 ---
