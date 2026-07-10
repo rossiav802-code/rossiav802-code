@@ -28,7 +28,7 @@
 | [Landing Page](https://github.com/rossiav802-code/landing-page) | Responsive landing with feedback form & validation | HTML · CSS · JS | [Live →](https://rossiav802-code.github.io/landing-page) |
 | [Weather App](https://github.com/rossiav802-code/Weather-app) | Responsive weather application with real-time weather data, city search, and Weather API integration. | HTML · CSS · JS Weather API | [Live →](https://rossiav802-code.github.io/Weather-app/) |
 | [Prichal](https://github.com/rossiav802-code/prichal) | Social feed app with posts, likes & comments, Supabase auth | HTML · CSS · JS · React · Supabase | [Live →](https://rossiav802-code.github.io/prichal/) |
-
+| [Requests Tracker](https://github.com/rossiav802-code/requests-tracker) | BPM-style request tracker with role-based approval workflow | React · JavaScript · Supabase · Tailwind CSS | [Live →](https://rossiav802-code.github.io/requests-tracker/) |
 ---
 
 ## 🎓 Education
